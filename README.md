@@ -7,6 +7,15 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/michellydarquia" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"/>
+  </a>
+</div>
+
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="cplusplus logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
@@ -31,6 +40,8 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="pytorch logo"  />
 </div>
+
+
 
 ###
 
